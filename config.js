@@ -76,13 +76,9 @@ const CONFIG = {
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
     music: {
-        enabled: true,                     // Music feature is enabled
-        autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: , // Music streaming URL
-        startText:         // Button text to start music
-        stopText:          // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
-    }
+        music: {
+    enabled: false
+}
 };
 
 // Don't modify anything below this line unless you know what you're doing
