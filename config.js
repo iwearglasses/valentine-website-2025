@@ -76,7 +76,7 @@ const CONFIG = {
     // Background Music (Optional)
 music: {
     enabled: false
-}
+};
 
 // Don't modify anything below this line unless you know what you're doing
 window.VALENTINE_CONFIG = CONFIG; 
