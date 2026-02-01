@@ -7,7 +7,7 @@ const CONFIG = {
     valentineName: "Breyon",
 
     // The title that appears in the browser tab
-    pageTitle: "Are you ready for fellatio February? 💝",
+    pageTitle: "Are you ready for February? 💝",
 
     // Floating emojis that appear in the background
     floatingEmojis: {
