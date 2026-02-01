@@ -74,10 +74,9 @@ const CONFIG = {
     },
 
     // Background Music (Optional)
-    // Add your own music URL after getting proper licenses
-    music: {
+music: {
     enabled: false
-};
+}
 
 // Don't modify anything below this line unless you know what you're doing
 window.VALENTINE_CONFIG = CONFIG; 
