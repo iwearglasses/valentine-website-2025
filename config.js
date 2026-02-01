@@ -52,7 +52,7 @@ const CONFIG = {
     // Color scheme for the website
     colors: {
         backgroundStart: "#ffafbd",
-        backgroundEnd: "#ffc3a0",
+        backgroundEnd: "#000000",
         buttonBackground: "#ff6b6b",
         buttonHover: "#ff8787",
         textColor: "#000000"
